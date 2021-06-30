@@ -2,3 +2,4 @@
 *.pyc
 *.obj
 /nginx
+/server/node_modules/mediasoup/worker/out
